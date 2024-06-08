@@ -9,7 +9,6 @@ Employee retention is critical for maintaining productivity and reducing recruit
 
 Our data set consists of 14999 observations which include:
 
-- Employee ID: Unique identifier for each employee.
 - Satisfaction level: Numeric value representing the level of satisfaction reported by each employee.
 - Last evaluation: Numeric value representing the most recent performance evaluation score of each employee.
 - Number project: Numeric value representing the number of projects each employee has been assigned.
