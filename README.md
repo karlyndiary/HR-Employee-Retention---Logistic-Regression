@@ -5,6 +5,8 @@ To investigate the impact of various factors on employee retention in a company.
 Employee retention is critical for maintaining productivity and reducing recruitment costs. High turnover rates can indicate underlying issues such as job dissatisfaction, lack of career advancement opportunities, or inadequate compensation. This study aims to identify key factors influencing employee retention and provide actionable insights to improve it.
 
 ## Dataset Description
+[HR Analytics and Job Prediction Dataset](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction)
+
 Our data set consists of 14999 observations which include:
 
 - Employee ID: Unique identifier for each employee.
