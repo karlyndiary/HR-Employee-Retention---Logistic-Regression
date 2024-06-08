@@ -7,16 +7,17 @@ Employee retention is critical for maintaining productivity and reducing recruit
 ## Dataset Description
 Our data set consists of 14999 observations which include:
 
-- Employee_ID: Unique identifier for each employee. A sequential number identifies each employee.
-- Last_Evaluation: The last performance evaluation score for the employee.
-- Number_Projects: Number of projects the employee has worked on.
-- Average_Monthly_Hours: Average number of hours the employee works per month.
-- Time_Spent_Company: Number of years the employee has spent at the company.
-- Work_Accident: Indicates whether the employee has had a work accident (1) or not (0).
-- Left: Binary variable indicating whether the employee left the company (1) or stayed (0).
-- Promotion_Last_5_Years: Indicates whether the employee was promoted in the last 5 years (1) or not (0).
-- Department: The department in which the employee works.
-- Salary: Salary level of the employee (e.g., low, medium, high).
+- Employee ID: Unique identifier for each employee.
+- Satisfaction level: Numeric value representing the level of satisfaction reported by each employee.
+- Last evaluation: Numeric value representing the most recent performance evaluation score of each employee.
+- Number project: Numeric value representing the number of projects each employee has been assigned.
+- Average monthly hours: Numeric value representing the average number of hours worked per month by each employee.
+- Time spend company: Numeric value representing the number of years each employee has spent in the company.
+- Work accident: Binary variable indicating whether each employee has had a work accident (1 for yes, 0 for no).
+- Left: Binary variable indicating whether each employee has left the company (1 for yes, 0 for no).
+- Promotion last 5 years: Binary variable indicating whether each employee has been promoted in the last 5 years (1 for yes, 0 for no).
+- Department: Categorical variable representing the department in which each employee works.
+- Salary: Categorical variable representing the salary level of each employee (low, medium, or high).
 
 ## Libraries
 - Pandas
