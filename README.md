@@ -7,11 +7,16 @@ Employee retention is critical for maintaining productivity and reducing recruit
 ## Dataset Description
 Our data set consists of 14999 observations which include:
 
-- Customer_ID: Unique identifier for each customer. A sequential number identifies each customer.
-- Recommendation_name: Name of the product recommended to the customer.
-- Recommendation_date: Date when the recommendation was made to the customer.
-- Suggestion_type: Indicates whether the recommendation was made with a phone or a cover.
-- Purchase_flag: Binary variable indicating whether the customer made a purchase (1) or not (0) in response to the recommendation.
+- Employee_ID: Unique identifier for each employee. A sequential number identifies each employee.
+- Last_Evaluation: The last performance evaluation score for the employee.
+- Number_Projects: Number of projects the employee has worked on.
+- Average_Monthly_Hours: Average number of hours the employee works per month.
+- Time_Spent_Company: Number of years the employee has spent at the company.
+- Work_Accident: Indicates whether the employee has had a work accident (1) or not (0).
+- Left: Binary variable indicating whether the employee left the company (1) or stayed (0).
+- Promotion_Last_5_Years: Indicates whether the employee was promoted in the last 5 years (1) or not (0).
+- Department: The department in which the employee works.
+- Salary: Salary level of the employee (e.g., low, medium, high).
 
 ## Libraries
 - Pandas
